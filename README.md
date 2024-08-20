@@ -26,7 +26,6 @@ The **T20 World Cup Project** is a Java-based desktop application designed to ma
 - T20 World Cup match details and statistics
 - Admin module for data management
 - Cross-platform compatibility
-![Project Screenshot](ss/Screenshot%20(142).png)
 ## Tech Stack
 - **Frontend:** Java Swing/AWT for forms
 - **Backend:** Java
