@@ -14,6 +14,11 @@
 ## Project Overview
 The **T20 World Cup Project** is a Java-based desktop application designed to manage and display information related to the T20 World Cup. The project features user registration and login, leveraging Oracle SQL for data management and Java forms for the user interface.
 ![Project Screenshot](ss/Screenshot%20(141).png)
+![Project Screenshot](ss/Screenshot%20(142).png)
+![Project Screenshot](ss/Screenshot%20(143).png)
+![Project Screenshot](ss/Screenshot%20(144).png)
+![Project Screenshot](ss/Screenshot%20(145).png)
+![Project Screenshot](ss/Screenshot%20(146).png)
 ## Features
 - User Registration and Login
 - Java forms for a user-friendly interface
