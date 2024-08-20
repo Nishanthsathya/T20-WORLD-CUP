@@ -1,6 +1,7 @@
 # T20 World Cup Project
 
-![Project Screenshot](ss/Screenshot (139).png)
+![Project Screenshot](ss/Screenshot%20(147).png)
+
 
 ## Table of Contents
 - [Project Overview](#project-overview)
